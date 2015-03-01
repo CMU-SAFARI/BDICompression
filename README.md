@@ -15,4 +15,4 @@ Gennady Pekhimenko, Vivek Seshadri, Onur Mutlu, Philip B. Gibbons, Michael A.
 Kozuch, and Todd C. Mowry, "Base-Delta-Immediate Compression: Practical Data
 Compression for On-Chip Caches" Proceedings of the 21st ACM International
 Conference on Parallel Architectures and Compilation Techniques (PACT),
-Minneapolis, MN, September 2012. Slides (pptx)
+Minneapolis, MN, September 2012. 
